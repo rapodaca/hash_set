@@ -1,6 +1,6 @@
 # HashSet: A Python Wrapper for Rust's HashSet Type
 
-This project demonstrates one way to build Rust wrappers in Python from scratch. For details, see [Wrapping Rust Types with Python Classes: Why Rolling Your Own is Simpler Than It Looks](https://depth-first.com/)
+This project demonstrates one way to build Rust wrappers in Python from scratch. For details, see [Wrapping Rust Types as Python Classes](https://depth-first.com/articles/2020/08/03/wrapping-rust-types-as-python-classes/).
 
 To build:
 
