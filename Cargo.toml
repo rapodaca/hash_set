@@ -1,0 +1,11 @@
+[package]
+name = "hash_set"
+version = "0.1.0"
+authors = ["Richard Apodaca <rich.apodaca@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.74"
+
+[lib]
+crate-type = ["cdylib"]
